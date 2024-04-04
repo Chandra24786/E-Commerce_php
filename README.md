@@ -5,3 +5,5 @@
 ![Screenshot (361)](https://github.com/Chandra24786/E-Commerce_php/assets/97583333/32b0e5ec-02f5-4777-adbc-cf3ebfdfc043)
 ![Screenshot (362)](https://github.com/Chandra24786/E-Commerce_php/assets/97583333/81352ebc-2b78-4986-abf3-ee64670abe70)
 ![Screenshot (363)](https://github.com/Chandra24786/E-Commerce_php/assets/97583333/49e08d62-f255-4710-88f3-8700864b6384)
+![Screenshot 2024-04-04 201103](https://github.com/Chandra24786/E-Commerce_php/assets/97583333/51eebc79-a6d8-49b6-affb-15d9e4f3e26c)
+![Screenshot 2024-04-04 201207](https://github.com/Chandra24786/E-Commerce_php/assets/97583333/4d24d3d1-3420-4a71-80a0-0e176ae87f49)
